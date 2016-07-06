@@ -1,11 +1,11 @@
 # HPC
 
-Assignments to the High Performance Computing class at Federal University of Rio de Janeiro (UFRJ), involving the use of different profilers for memory and CPU time, OpenMP, OpenMPI and optimization techniques.
+Trabalhos para o curso de Computação de Alto Desempenho na Universidade Federal do Rio de Janeiro (UFRJ) em 2016, envolvendo o uso de diferentes perfiladores de memória e tempo de CPU, OpenMP, OpenMPI e técnicas de otimização.
 
-## Assignment 1
+## Trabalho 1
 
-Coming soon! Already delivered through other means, will be updated as future backup.
+Em breve! Já foi entregado por outros meios...
 
-## Assignment 2
+## Trabalho 2
 
-Exercises involving the profiling of parallel codes (with OpenMP), using TAU and OPARI, optimization of a scientific code and the creation of parallel programs using OpenMP.
+Exercícios envolvendo a perfilagem de códigos paraelos com OpenMP, usando TAU e OPARI, otimização e paralelização de um código científico e geração de programas paralelos usando OpenMP.
