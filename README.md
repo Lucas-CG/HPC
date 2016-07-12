@@ -2,9 +2,6 @@
 
 Trabalhos para o curso de Computação de Alto Desempenho na Universidade Federal do Rio de Janeiro (UFRJ) em 2016, envolvendo o uso de diferentes perfiladores de memória e tempo de CPU, OpenMP, OpenMPI e técnicas de otimização.
 
-## Trabalho 1
-
-Em breve! Já foi entregado por outros meios...
 
 ## Trabalho 2
 
